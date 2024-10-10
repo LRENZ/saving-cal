@@ -1,0 +1,476 @@
+{
+  "北京": {
+    "totalMonthlyExpenses": 12000,
+    "housingExpenses": 7000,
+    "foodExpenses": 3000,
+    "entertainmentExpenses": 2000
+  },
+  "上海": {
+    "totalMonthlyExpenses": 12500,
+    "housingExpenses": 7000,
+    "foodExpenses": 3000,
+    "entertainmentExpenses": 2000
+  },
+  "广州": {
+    "totalMonthlyExpenses": 10000,
+    "housingExpenses": 6000,
+    "foodExpenses": 2500,
+    "entertainmentExpenses": 1500
+  },
+  "深圳": {
+    "totalMonthlyExpenses": 10500,
+    "housingExpenses": 6500,
+    "foodExpenses": 2500,
+    "entertainmentExpenses": 1500
+  },
+  "成都": {
+    "totalMonthlyExpenses": 7500,
+    "housingExpenses": 4000,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1500
+  },
+  "杭州": {
+    "totalMonthlyExpenses": 9000,
+    "housingExpenses": 5500,
+    "foodExpenses": 2500,
+    "entertainmentExpenses": 1500
+  },
+  "武汉": {
+    "totalMonthlyExpenses": 7000,
+    "housingExpenses": 3500,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1500
+  },
+  "西安": {
+    "totalMonthlyExpenses": 6500,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1500
+  },
+  "重庆": {
+    "totalMonthlyExpenses": 6800,
+    "housingExpenses": 3400,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1400
+  },
+  "南京": {
+    "totalMonthlyExpenses": 8500,
+    "housingExpenses": 5000,
+    "foodExpenses": 2200,
+    "entertainmentExpenses": 1300
+  },
+  "天津": {
+    "totalMonthlyExpenses": 8000,
+    "housingExpenses": 4500,
+    "foodExpenses": 2200,
+    "entertainmentExpenses": 1300
+  },
+  "苏州": {
+    "totalMonthlyExpenses": 8500,
+    "housingExpenses": 5000,
+    "foodExpenses": 2200,
+    "entertainmentExpenses": 1300
+  },
+  "青岛": {
+    "totalMonthlyExpenses": 7000,
+    "housingExpenses": 3800,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1200
+  },
+  "郑州": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "长沙": {
+    "totalMonthlyExpenses": 6200,
+    "housingExpenses": 3400,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "沈阳": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "大连": {
+    "totalMonthlyExpenses": 6500,
+    "housingExpenses": 3500,
+    "foodExpenses": 1900,
+    "entertainmentExpenses": 1100
+  },
+  "厦门": {
+    "totalMonthlyExpenses": 8000,
+    "housingExpenses": 4500,
+    "foodExpenses": 2200,
+    "entertainmentExpenses": 1300
+  },
+  "无锡": {
+    "totalMonthlyExpenses": 7500,
+    "housingExpenses": 4000,
+    "foodExpenses": 2200,
+    "entertainmentExpenses": 1300
+  },
+  "福州": {
+    "totalMonthlyExpenses": 7000,
+    "housingExpenses": 3800,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1200
+  },
+  "济南": {
+    "totalMonthlyExpenses": 6800,
+    "housingExpenses": 3500,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1300
+  },
+  "宁波": {
+    "totalMonthlyExpenses": 7500,
+    "housingExpenses": 4200,
+    "foodExpenses": 2200,
+    "entertainmentExpenses": 1300
+  },
+  "东莞": {
+    "totalMonthlyExpenses": 7000,
+    "housingExpenses": 3800,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1200
+  },
+  "佛山": {
+    "totalMonthlyExpenses": 7500,
+    "housingExpenses": 4000,
+    "foodExpenses": 2200,
+    "entertainmentExpenses": 1300
+  },
+  "合肥": {
+    "totalMonthlyExpenses": 6500,
+    "housingExpenses": 3400,
+    "foodExpenses": 1900,
+    "entertainmentExpenses": 1200
+  },
+  "温州": {
+    "totalMonthlyExpenses": 7000,
+    "housingExpenses": 3800,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1200
+  },
+  "石家庄": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "南昌": {
+    "totalMonthlyExpenses": 6200,
+    "housingExpenses": 3400,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "常州": {
+    "totalMonthlyExpenses": 6800,
+    "housingExpenses": 3600,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1200
+  },
+  "哈尔滨": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "乌鲁木齐": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "南通": {
+    "totalMonthlyExpenses": 6500,
+    "housingExpenses": 3500,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1200
+  },
+  "扬州": {
+    "totalMonthlyExpenses": 6200,
+    "housingExpenses": 3400,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "嘉兴": {
+    "totalMonthlyExpenses": 6700,
+    "housingExpenses": 3600,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1100
+  },
+  "绍兴": {
+    "totalMonthlyExpenses": 6500,
+    "housingExpenses": 3500,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1200
+  },
+  "烟台": {
+    "totalMonthlyExpenses": 6200,
+    "housingExpenses": 3400,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "潍坊": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "呼和浩特": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "南宁": {
+    "totalMonthlyExpenses": 6200,
+    "housingExpenses": 3400,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "太原": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "昆明": {
+    "totalMonthlyExpenses": 6500,
+    "housingExpenses": 3500,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1000
+  },
+  "贵阳": {
+    "totalMonthlyExpenses": 5800,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 800
+  },
+  "海口": {
+    "totalMonthlyExpenses": 6500,
+    "housingExpenses": 3500,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1000
+  },
+  "长春": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "兰州": {
+    "totalMonthlyExpenses": 5800,
+    "housingExpenses": 3100,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 900
+  },
+  "银川": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "西宁": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "拉萨": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "石家庄": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "呼和浩特": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "包头": {
+    "totalMonthlyExpenses": 5800,
+    "housingExpenses": 3100,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "鄂尔多斯": {
+    "totalMonthlyExpenses": 6500,
+    "housingExpenses": 3500,
+    "foodExpenses": 2000,
+    "entertainmentExpenses": 1000
+  },
+  "大同": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "吉林": {
+    "totalMonthlyExpenses": 5800,
+    "housingExpenses": 3100,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "齐齐哈尔": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "牡丹江": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "大庆": {
+    "totalMonthlyExpenses": 5800,
+    "housingExpenses": 3100,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "张家口": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "唐山": {
+    "totalMonthlyExpenses": 6200,
+    "housingExpenses": 3400,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "秦皇岛": {
+    "totalMonthlyExpenses": 5800,
+    "housingExpenses": 3100,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "保定": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "邯郸": {
+    "totalMonthlyExpenses": 5800,
+    "housingExpenses": 3100,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "邢台": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "沧州": {
+    "totalMonthlyExpenses": 6000,
+    "housingExpenses": 3200,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "廊坊": {
+    "totalMonthlyExpenses": 6200,
+    "housingExpenses": 3400,
+    "foodExpenses": 1800,
+    "entertainmentExpenses": 1000
+  },
+  "衡水": {
+    "totalMonthlyExpenses": 5800,
+    "housingExpenses": 3100,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "运城": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "晋城": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "临汾": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "朔州": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "忻州": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "晋中": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  },
+  "吕梁": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "赤峰": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "通辽": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "呼伦贝尔": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "巴彦淖尔": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "乌兰察布": {
+    "totalMonthlyExpenses": 5500,
+    "housingExpenses": 2900,
+    "foodExpenses": 1600,
+    "entertainmentExpenses": 1000
+  },
+  "乌海": {
+    "totalMonthlyExpenses": 5700,
+    "housingExpenses": 3000,
+    "foodExpenses": 1700,
+    "entertainmentExpenses": 1000
+  }
+}
